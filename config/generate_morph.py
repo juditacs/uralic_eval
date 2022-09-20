@@ -6,7 +6,7 @@
 #
 # Distributed under terms of the MIT license.
 import logging
-import os
+from pathlib import Path
 import gc
 import torch
 
@@ -14,8 +14,7 @@ from probing.config import Config
 
 
 def generate_configs(config_fn):
-    this_dir = os.path.dirname(__file__)
-    data_root = os.path.join(this_dir, "..", "data")
+    data_root = Path(__file__).parent.parent / "data" / "morph"
     models = [
         "SZTAKI-HLT/hubert-base-cc",
         "tartuNLP/EstBERT",
@@ -25,16 +24,16 @@ def generate_configs(config_fn):
         "bert-base-cased",
     ]
     for model in models:
-        for lang_path in sorted(os.scandir(data_root), key=lambda p: p.name):
+        for lang_path in data_root.iterdir():
             language = lang_path.name
-            for task_path in os.scandir(lang_path.path):
+            for task_path in lang_path.iterdir():
                 task = task_path.name
                 for subword in ['first', 'last']:
                     logging.info("=====================================")
                     logging.info(f"=== {model} {language} {task} {subword} ==")
                     logging.info("=====================================")
-                    train_file = f"{task_path.path}/train.tsv"
-                    dev_file = f"{task_path.path}/dev.tsv"
+                    train_file = str(task_path / "train.tsv")
+                    dev_file = str(task_path / "dev.tsv")
                     config = Config.from_yaml(config_fn)
                     config.model = 'SentenceRepresentationProber'
                     config.dataset_class = 'SentenceProberDataset'
@@ -44,8 +43,8 @@ def generate_configs(config_fn):
                     config.train_file = train_file
                     config.dev_file = dev_file
                     config.batch_size = 12
-                    config.randomize_embedding_weights = True
-                    config.train_base_model = True
+                    config.randomize_embedding_weights = False
+                    config.train_base_model = False
                     config.remove_diacritics = False
                     yield config
                     gc.collect()

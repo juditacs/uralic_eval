@@ -1,0 +1,29 @@
+experiment_dir: exps
+use_cache: true
+
+dropout: 0.2
+
+mlp_layers: [50]
+mlp_nonlinearity: ReLU
+
+epochs: 100 
+
+batch_size: 128
+optimizer: Adam
+early_stopping_strict: true
+
+sort_data_by_length: false
+shuffle_batches: false
+save_metric: dev_acc
+
+model: 'TransformerForSequenceTagging'
+dataset_class: 'SequenceClassificationWithSubwords'
+subword_pooling: first
+layer_pooling: weighted_sum
+model_name: 'bert-base-multilingual-cased'
+train_base_model: false
+randomize_embedding_weights: false
+remove_diacritics: false
+
+train_size: 20000
+dev_size: 200

@@ -1,0 +1,26 @@
+experiment_dir: exps
+
+dropout: 0.2
+
+mlp_layers: [50]
+mlp_nonlinearity: ReLU
+
+# Finetuning settings
+batch_size: 10
+optimizer: AdamW
+optimizer_kwargs:
+    lr: 0.00001
+
+epochs: 100
+early_stopping_strict: true
+
+sort_data_by_length: false
+shuffle_batches: false
+save_metric: dev_acc
+
+model: 'SentenceRepresentationProber'
+dataset_class: 'SentenceProberDataset'
+subword_pooling: last
+layer_pooling: 'weighted_sum'
+model_name: 'bert-base-multilingual-cased'
+train_base_model: true
