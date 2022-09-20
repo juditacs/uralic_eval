@@ -1,0 +1,665 @@
+Ӧжыт	O
+улыса	O
+,	O
+отрядэныз	O
+Вяткае	B-LOC
+лыктэ	O
+.	O
+
+Бызе	O
+Сьӧлта	B-LOC
+ёрослэн	I-LOC
+но	O
+Сюмси	B-LOC
+ёрослэн	I-LOC
+музъемъёстӥзы	O
+уйпалысен	O
+лымшорлань	O
+.	O
+
+Кигали	B-LOC
+(	O
+Umurenge	O
+wa	O
+Kigali	O
+)	O
+
+***	O
+Pinus	B-LOC
+monophylla	I-LOC
+''	O
+—	O
+
+Матысь	O
+чугун	O
+сюрес	O
+станциозь	O
+-	O
+Кезозь	B-LOC
+-	O
+32	O
+иськем	O
+.	O
+
+'	O
+''	O
+Нигде	B-LOC
+''	O
+'	O
+(	O
+Niğde	O
+merkezi	O
+)	O
+
+2011-тӥ	O
+арысен	O
+Удмурт	B-ORG
+кун	I-ORG
+университетысь	I-ORG
+«Ватка»	O
+нимо	O
+театральной	O
+студиен	O
+кивалтэ	O
+.	O
+
+перенаправление	O
+Хайнаньысь	B-LOC
+тӧдьы	I-LOC
+пужым	I-LOC
+
+Lahn	O
+)	O
+—	O
+Германиысь	B-LOC
+шур	O
+.	O
+
+'	O
+''	O
+Евге́ния	O
+Влади́мировна	O
+Ко́пысова	O
+''	O
+'	O
+—	O
+Удмуртиысь	B-LOC
+композитор	O
+,	O
+крезьгурез	O
+калык	O
+пӧлы	O
+вӧлмытӥсь	O
+.	O
+
+Бызе	O
+Сюмси	B-LOC
+ёрослэн	I-LOC
+музъемэтӥз	O
+.	O
+
+Словения	B-LOC
+,	O
+Австрия	B-LOC
+,	O
+Италия	B-LOC
+,	O
+Венгрия	B-LOC
+,	O
+Хорватия	B-LOC
+,	O
+Германия	B-LOC
+
+''Otolemur	O
+monteiri	O
+''	O
+–	O
+Азвесь	B-LOC
+бадӟым	I-LOC
+галаго	I-LOC
+
+Административной	O
+центрез	O
+Чита	B-LOC
+луэ	O
+.	O
+
+Усе	O
+Чупчие	B-LOC
+Дэбес	B-LOC
+ёросын	I-LOC
+.	O
+
+'	O
+''	O
+Еле́на	O
+Леони́довна	O
+Бусы́гина	O
+''	O
+'	O
+—	O
+Удмуртиысь	B-LOC
+физик-твердотельщик	O
+,	O
+спортсмен	O
+.	O
+
+'	O
+''	O
+Хаккяри	B-LOC
+''	O
+'	O
+(	O
+Hakkâri	O
+merkezi	O
+)	O
+
+**	O
+Araucaria	B-LOC
+laubenfelsii	I-LOC
+''	O
+.	O
+
+**	O
+''Saguinus	O
+pileatus	O
+''	O
+–	O
+Горд	B-LOC
+йыро	I-LOC
+тамарин	I-LOC
+
+Г.	B-PER
+А.	I-PER
+Кулакова	I-PER
+,	O
+
+Америкаысь	B-LOC
+король	I-LOC
+сизь	I-LOC
+
+Собере	O
+Ижысь	B-LOC
+23-тӥ	O
+шор-ёзо	O
+школаын	O
+дышетӥсь	O
+луыса	O
+ужаз	O
+.	O
+
+перенаправление	O
+Тайваньысь	B-LOC
+горд	I-LOC
+пужым	I-LOC
+
+Улонысь	O
+кошкиз	O
+8-тӥ	O
+июле	O
+1978-тӥ	O
+арын	O
+Ижын	B-LOC
+.	O
+
+Командировкаосы	O
+сое	O
+лэзьяло	O
+Чечняе	B-LOC
+,	O
+Таджикистанэ	B-LOC
+,	O
+
+'	O
+''	O
+Гиресун	B-LOC
+''	O
+'	O
+(	O
+Giresun	O
+merkezi	O
+)	O
+
+Кысакюрек	B-PER
+,	I-PER
+Неджип	I-PER
+Фазыл	I-PER
+
+Ижен	B-LOC
+виссы	O
+—	O
+62	O
+километр	O
+,	O
+Мускоен	B-LOC
+—	O
+1	O
+сюрс	O
+191	O
+километр	O
+.	O
+
+Улэ	O
+но	O
+ужа	O
+Ижын	B-LOC
+.	O
+
+«Этник-радиолэн»	O
+сайтаз	O
+дунтэк	O
+но	O
+уй-нуналлы	O
+быдэ	O
+24	O
+час	O
+ӵоже	O
+Россын	B-LOC
+улӥсь	O
+куд-ог	O
+калыкъёслэсь	O
+кырӟанъёссэс	O
+но	O
+крезьгурзэс	O
+кылзыны	O
+луэ	O
+.	O
+
+'	O
+''	O
+Ризе	B-LOC
+''	O
+'	O
+(	O
+Rize	O
+merkezi	O
+)	O
+
+1980–1985-тӥ	O
+аръёсы	O
+дышетскиз	O
+Удмурт	B-ORG
+кун	I-ORG
+университетын	I-ORG
+историяя	O
+факультетын	O
+.	O
+
+'	O
+''	O
+Карс	B-LOC
+''	O
+'	O
+(	O
+Kars	O
+merkezi	O
+)	O
+
+Завьял	B-LOC
+/	I-LOC
+Дэри	I-LOC
+ёрос	I-LOC
+
+перенаправление	O
+Шунды	B-LOC
+пуксён	I-LOC
+пал	I-LOC
+Канадаысь	I-LOC
+инуит	I-LOC
+кыл	I-LOC
+
+1942	O
+арысен	O
+Улэ	O
+Ижын	B-LOC
+.	O
+
+Гюнтекин	B-PER
+,	I-PER
+Решат	I-PER
+Нури	I-PER
+
+перенаправление	O
+Максимов	B-PER
+,	I-PER
+Максим	I-PER
+Геннадьевич	I-PER
+
+Одӥгезъя	O
+малпанъя	O
+,	O
+со	O
+чингизид	O
+вылэм	O
+—	O
+Чингисханлэн	B-PER
+выжы-кумыез	O
+.	O
+
+Интыяське	O
+37	O
+иськемын	O
+Уфалэсь	B-LOC
+.	O
+
+перенаправление	O
+Черезов	B-PER
+,	I-PER
+Иван	I-PER
+Юрьевич	I-PER
+
+''Leontopithecus	O
+chrysomelas	O
+''	O
+–	O
+Зарни	B-LOC
+йыро	I-LOC
+арыслан	I-LOC
+маймыл	I-LOC
+
+Солэн	O
+йылыз	O
+Шаркан	B-LOC
+ёросын	I-LOC
+Лып-Селяны	O
+гуртын	O
+интыяськемын	O
+.	O
+
+***	O
+''Oryx	O
+leucoryx	O
+''	O
+–	O
+Аравиысь	B-LOC
+орикс	I-LOC
+
+Шур	O
+бызе	O
+Глаз	B-LOC
+ёрослэн	I-LOC
+музъемэтӥз	O
+но	O
+усе	O
+Чупчи	B-LOC
+шуре	O
+.	O
+
+'	O
+''	O
+Мухавец	B-LOC
+''	O
+'	O
+-	O
+Белоруссилэн	B-LOC
+Брест	B-LOC
+улосысьтыз	O
+шур	O
+,	O
+усе	O
+Шундыпуксён	B-LOC
+Буге	I-LOC
+;	O
+
+Со	O
+Пичи	B-LOC
+Пурга	I-LOC
+ёрослэн	I-LOC
+центрез	O
+луэ	O
+.	O
+
+Зарни	B-LOC
+йыро	I-LOC
+сифака	I-LOC
+
+Покчи	B-LOC
+кеч	I-LOC
+(	O
+''Oryctolagus	O
+''	O
+)	O
+
+Пермьлэн	B-LOC
+туж	O
+тунсыко	O
+кылдон	O
+но	O
+азинскон	O
+сюресэз	O
+луэ	O
+.	O
+
+Россиысь	B-LOC
+сӥё-дано	O
+суредась	O
+,	O
+Удмуртиысь	B-LOC
+калык	O
+суредась	O
+.	O
+
+шундыӝужан	O
+но	O
+шундыпуксён	O
+палан	O
+Татарстанэн	B-LOC
+
+Усе	O
+Калмез	B-LOC
+шуре	I-LOC
+Кузьдалаез	O
+—	O
+21	O
+иськем	O
+.	O
+
+Зарни	B-LOC
+сизь	I-LOC
+(	O
+''Colaptes	O
+auratus	O
+''	O
+)	O
+
+Азиысь	B-LOC
+сьӧд	I-LOC
+гондыр	I-LOC
+
+***	O
+Pinus	B-LOC
+pumila	I-LOC
+''	O
+—	O
+
+Туркмения	B-LOC
+,	O
+Иран	B-LOC
+,	O
+Афганистан	B-LOC
+,	O
+Ирак	B-LOC
+,	O
+Турция	B-LOC
+,	O
+Россия	B-LOC
+
+Кутсконэз	O
+—	O
+Пружаны	B-LOC
+карын	O
+.	O
+
+'	O
+''	O
+Текирдаг	B-LOC
+''	O
+'	O
+(	O
+Tekirdağ	O
+merkezi	O
+)	O
+
+Сьӧд	B-LOC
+йыро	I-LOC
+сизь	I-LOC
+(	O
+''Picus	O
+erythropygius	O
+''	O
+)	O
+
+Азьло	O
+Россия	B-LOC
+Федерацияысь	I-LOC
+правительство	O
+тӧроез	O
+.	O
+
+**	O
+Арлан	B-LOC
+(	O
+''Cricetus	O
+cricetus	O
+''	O
+)	O
+
+Шур	O
+бызе	O
+Ува	B-LOC
+ёрослэн	I-LOC
+но	O
+Якшур-Бӧдья	B-LOC
+ёрослэн	I-LOC
+музъемъёстӥзы	O
+.	O
+
+**	O
+Alnus	B-LOC
+serrulata	I-LOC
+''	O
+—	O
+
+Кылбур	O
+дуннее	O
+кыстӥськон	O
+мылкыдыз	O
+ӝутӥськиз	O
+,	O
+Можгаын	B-LOC
+дышетскыкуз	O
+.	O
+
+перенаправление	O
+Америкалэн	B-LOC
+Огазеяськем	I-LOC
+Штатъёсыз	I-LOC
+
+Шур	O
+бызе	O
+Юкаменск	B-LOC
+ёрослэн	I-LOC
+но	O
+Глаз	B-LOC
+ёрослэн	I-LOC
+музъемъёстӥзы	O
+.	O
+
+Ухта	B-LOC
+—	O
+105,0	O
+МГц	O
+
+**	O
+''Ursus	O
+thibetanus	O
+''	O
+–	O
+'	O
+''	O
+Азиысь	B-LOC
+сьӧд	I-LOC
+гондыр	I-LOC
+''	O
+'	O
+
+Сунай	B-PER
+,	I-PER
+Джевдет	I-PER
+
+Усе	O
+Пскова	B-LOC
+шуре	O
+Торошино	O
+гурт	O
+дорын	O
+.	O
+
+''Toshkent	O
+/	O
+Тошкент	O
+''	O
+)	O
+-	O
+Узбекистанлэн	B-LOC
+шоркарез	B-LOC
+,	O
+вузкаронъя	O
+,	O
+транспортъя	O
+,	O
+наукая	O
+,	O
+религияя	O
+но	O
+промышленностья	O
+центр	O
+.	O
+
+***	O
+Pinus	B-LOC
+sylvestris	I-LOC
+''	O
+—	O
+
+'	O
+''	O
+Кастамону	B-LOC
+''	O
+'	O
+(	O
+Kastamonu	O
+merkezi	O
+)	O
+
+''Macropus	O
+rufus	O
+''	O
+–	O
+Кельыт	B-LOC
+кенгуру	I-LOC
+
+'	O
+''	O
+Орду	B-LOC
+''	O
+'	O
+(	O
+Ordu	O
+merkezi	O
+)	O
+
+перенаправление	O
+Горд	B-LOC
+емышо	I-LOC
+сусыпу	I-LOC
+
+'	O
+''	O
+Ушак	B-LOC
+''	O
+'	O
+(	O
+Uşak	O
+merkezi	O
+)	O
