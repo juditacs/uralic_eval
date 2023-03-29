@@ -36,6 +36,11 @@ Finetuning:
 
 No finetuning:
 
+    python $PROBING_PATH/src/probing/train.py \
+        --config config/tagging.yaml \
+        --train data/pos/Estonian/train \
+        --dev data/pos/Estonian/dev
+
 # Train multiple experiments
 
 Morphology experiments without finetuning can be run consecutively with a cached model that allows for a significant speed up.
